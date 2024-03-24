@@ -1,9 +1,10 @@
 <div align="center">
   <h2>Hi</h2>
 </div>
-<img src="https://iili.io/HyiXz8P.png" min-width="2800px" max-width="280px" width="280px" align="right">
 
-<p align="left">
+<img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="left">
+
+<p align="right">
 Greetings! I'm currently immersed in the captivating world of computer engineering, fueled by the aspiration to become a proficient Java developer.<br>
   <br>My journey involves delving into the intricate realms of Spring, mastering the art of Java Object-Oriented Programming, and absorbing everything I can about the programming universe that I hold dear.<br>
   <br>In the words of J.R.R. Tolkien, "Not all those who wander are lost." Similarly, in the vast landscape of programming, every exploration, every line of code, contributes to the grand tapestry of knowledge, guiding me on a quest towards mastery.
