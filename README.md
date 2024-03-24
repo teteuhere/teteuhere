@@ -2,22 +2,24 @@
   <h2>Hi</h2>
 </div>
 
-<img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="left">
+<img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
 
-<p align="right">
-Greetings! I'm currently immersed in the captivating world of computer engineering, fueled by the aspiration to become a proficient Java developer.<br>
-  <br>My journey involves delving into the intricate realms of Spring, mastering the art of Java Object-Oriented Programming, and absorbing everything I can about the programming universe that I hold dear.<br>
-  <br>In the words of J.R.R. Tolkien, "Not all those who wander are lost." Similarly, in the vast landscape of programming, every exploration, every line of code, contributes to the grand tapestry of knowledge, guiding me on a quest towards mastery.
+<p align="left">
+  Greetings! I'm currently immersed in the captivating world of computer engineering, fueled by the aspiration to become a proficient Java developer.<br>
+  <br>
+  My journey involves delving into the intricate realms of Spring, mastering the art of Java Object-Oriented Programming, and absorbing everything I can about the programming universe that I hold dear.<br>
+  <br>
+  In the words of J.R.R. Tolkien, "Not all those who wander are lost." Similarly, in the vast landscape of programming, every exploration, every line of code, contributes to the grand tapestry of knowledge, guiding me on a quest towards mastery.
   <br>
 </p>
 
-
-<div align="left">
+<br> <div align="left">
   <h2>Connect with me:</h2>
-  <a href = "mailto:matheuss.cirq@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:matheuss.cirq@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/TeuHere" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheuscirqueira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
 
 
 <div align="center">
