@@ -1,7 +1,7 @@
 <div align="center">
   <h2>Hi</h2>
 </div>
-<img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://iili.io/HyiXz8P.png" min-width="2800px" max-width="280px" width="280px" align="right">
 
 <p align="left">
 Greetings! I'm currently immersed in the captivating world of computer engineering, fueled by the aspiration to become a proficient Java developer.<br>
@@ -9,6 +9,7 @@ Greetings! I'm currently immersed in the captivating world of computer engineeri
   <br>In the words of J.R.R. Tolkien, "Not all those who wander are lost." Similarly, in the vast landscape of programming, every exploration, every line of code, contributes to the grand tapestry of knowledge, guiding me on a quest towards mastery.
   <br>
 </p>
+
 
 <div align="left">
   <h2>Connect with me:</h2>
