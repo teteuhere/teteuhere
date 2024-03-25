@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h2>Hi</h2>
 </div>
 
@@ -22,7 +22,7 @@
 
 
 
-<div align="center">
+<div align="left">
   <h2>Languages and tools I like and use </h2>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -47,8 +47,8 @@
 In the journey of knowledge, be a wizard of wisdom. Know the languages of code, unravel the mysteries of Backend, and let the light of learning guide your path.
 </p>
 
-<div align="center">
-  <h1>Stats </h1>
+<div align="left">
+  <h1>Stats: </h1>
   <table style="margin: 0 auto; display: none;">
     <tr>
       <td>
