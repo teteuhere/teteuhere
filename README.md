@@ -1,55 +1,57 @@
-<div>
-  <img src="https://iili.io/HyiXz8P.png" width="300px" align="right"/>
+## Olá! 👋
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" width="300px" align="right" alt="Linux Penguin (Tux) Header Image">
 
-  <h2 align="left">Olá! 👋</h2>
-  
-  <p align="left">
-    Sou um estudante de Engenharia da Computação em uma jornada para me tornar um desenvolvedor Java proficiente. Atualmente, estou mergulhando fundo no ecossistema Spring, masterizando a Programação Orientada a Objetos e explorando tudo que este universo tem a oferecer.
-    <br><br>
-    Como disse J.R.R. Tolkien, <i>"Nem todos os que vagueiam estão perdidos."</i> No vasto mundo da programação, cada linha de código é um passo em uma grande jornada rumo à maestria.
-  </p>
+  
+Sou um estudante de Engenharia da Computação em uma jornada para dominar o desenvolvimento back-end! 🚀 Minha paixão é dividida entre dois mundos: estou mergulhando fundo no ecossistema **Java** com **Spring** e, ao mesmo tempo, afiando minhas habilidades como um mestre em **Python**. Meu objetivo é masterizar a Programação Orientada a Objetos e construir soluções robustas e elegantes.
+<br><br>
+No vasto mundo da programação, eu sigo a filosofia de J.R.R. Tolkien: <i>"Nem todos os que vagueiam estão perdidos."</i> Cada linha de código é um novo passo na minha grande jornada.
 
-  <h3 align="left">Conecte-se comigo:</h3>
-  <p align="left">
-    <a href="mailto:matheuss.cirq@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/matheuscirqueira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </p>
-</div>
+### Conecte-se comigo:
+<p>
+  <a href="mailto:matheuss.cirq@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.in/in/matheuscirqueira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
 
-<br>
-
----
-
-
-<div align="center">
-  
-  <h3 align="center">Linguagens e Tecnologias</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,cpp,bash,mysql" />
-  </a>
-  
-  <h3 align="center">Frameworks e Bibliotecas</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,bootstrap,express" />
-  </a>
-  
-  <h3 align="center">Ferramentas de Desenvolvimento</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-  </a>
-
-</div>
+<div style="clear: both;"></div>
 
 ---
 
 <div align="center">
-  <h3 align="center">Minhas Estatísticas no GitHub</h3>
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=teteuhere&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teteuhere&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <table width="100%">
+    <tr>
+      <td width="33%" align="center">
+        <h3>Backend</h3>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,java,django,flask,nodejs,mysql" />
+        </a>
+      </td>
+      <td width="33%" align="center">
+        <h3>Frontend</h3>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=javascript,html,css,bootstrap" />
+        </a>
+      </td>
+      <td width="33%" align="center">
+        <h3>Ferramentas</h3>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,github,vscode,bash" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+  <h3>Minhas Estatísticas no GitHub</h3>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=teteuhere&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats Card" />
+  <img height="170px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=teteuhere&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages Card" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 </div>
