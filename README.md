@@ -1,11 +1,11 @@
 ## Hello! 👋 |-/
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" width="300px" align="right" alt="Linux Penguin (Tux) Header Image">
 
-I graduated in **Computer Engineering** and I am focused on back-end development. My daily routine involves the **Java** ecosystem with **Spring**, alongside **Python** for automation and scripting logic.
+I am a Computer Engineer. My work is defined by the intersection of institutional discipline and technical rigor, focusing on the development of robust, secure, and mission-critical systems.
 
-I have a constant interest in Object-Oriented Programming and in structuring applications to be both functional and easy to maintain. In my workflow, I rely on Git for versioning and consistently aim to apply code organization best practices.
+In the back-end perimeter, I specialize utilizing Python for operational automation and data logic. I prioritize clean code and strict adherence to design patterns to ensure every system is as resilient as it is functional.
 
-As a fan of **Twenty One Pilots**, I live by the philosophy: *"The sun will rise and we will try again."* |-/ In engineering, I view every technical challenge as a lesson in persistence and a vital part of the learning process.
+As a fan of Twenty One Pilots, I live by the philosophy: "The sun will rise and we will try again" |-/ . In engineering, I view persistence as a fundamental protocol—treating every technical challenge as a lesson in operational growth and reliability.
 
 ### Connect with me:
 <p>
